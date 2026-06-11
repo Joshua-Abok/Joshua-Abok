@@ -2,15 +2,14 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930648540-2AG2AUX4BL35UJ6H0PEZ/e2f96-old-header-machine-learning-pt1.gif?format=2500w)](https://huggingface.co/Joshua-Abok)
 
 <h1 align="center">Hi 👋, I'm Joshua Abok</h1>
-<h3 align="center">A passionate Data Scientist from Kenya</h3>
+<h3 align="center">A passionate Machine Learning Engineer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*h1dUrjhkHzMU46jW1cQjAg.gif">
 
 
 <p align="left"> <a href="https://twitter.com/joshuaabok3" target="blank"><img src="https://img.shields.io/twitter/follow/joshuaabok3?logo=twitter&style=for-the-badge" alt="joshuaabok3" /></a> </p>
 
-- 🔭 I’m currently working on [MLOps using hydra, DVC, MLFlow, Dask, etc.](https://github.com/Joshua-Abok/dvc-pipelines)
 
-- 🌱 I’m currently learning **MLOps, LLMs**
+- 🌱 Experienced in **MLOps, LLMs, AI Agents**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Joshua-Abok/](https://github.com/Joshua-Abok/)
 
